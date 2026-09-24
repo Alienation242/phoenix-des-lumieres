@@ -1,4 +1,4 @@
-# Phoenix de Lumière — SW wall
+# Phoenix des Lumières — SW wall
 
 Content for one surface of a twelve-surface projection mapping inside a
 62 × 38 m exhibition hall. This repo holds the **SW wall**: the 2:40–4:00 slice
